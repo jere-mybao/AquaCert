@@ -1,4 +1,4 @@
-# AquaCert: MLOps-Driven Water Potability Prediction
+# AquaCert
 
 AquaCert demonstrates a comprehensive implementation of MLOps principles to solve a real-world problem: predicting water potability using machine learning. This project integrates state-of-the-art tools like **MLflow** for experiment tracking, **DVC** for data and model versioning, and a **Tkinter**-based desktop application for deployment, ensuring both technical rigor and practical usability.
 
