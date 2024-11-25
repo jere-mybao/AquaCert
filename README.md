@@ -40,8 +40,19 @@ AquaCert is structured around a robust MLOps pipeline, emphasizing reproducibili
 
 ---
 
-## Getting Started
+## Installation
 
-### 1. Clone the Repository
-```bash
-git clone git@github.com:jere-mybao/aquacert.git
+1. **Clone the repository:**
+
+   ```bash
+   git clone git@github.com:z-jere-mybao/aquacert.git
+
+2. **Install the required dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+## Usage
+1. **Run the script:**
+
+   ```bash
+   python GUI.py
