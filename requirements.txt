@@ -2,6 +2,7 @@
 -e .
 
 # external requirements
+mlflow
 click
 Sphinx
 coverage
